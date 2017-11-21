@@ -32,3 +32,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Dont ignore dlls cause probuilder needs it
+*!. .dll
